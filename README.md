@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-🔭 Pursuing Degree in Electronics & Telecommunication Engineering >> But a Software Enthusiast
+🔭 Pursuing Degree in Electronics & Telecommunication Engineering >> Software Enthusiast
 
-🌱 currently learning Java, Web Development & trying to enhance my skills.
+🌱 Currently learning Java, Web Development & trying to enhance my skills.
 
 😄 Love to design creative & user friendly interfaces & want to make the wolrd look little better through design & code.
 
