@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 🌱 Currently learning Python, Django Web Framework & trying to enhance my skills.
 
-😄 Love to design creative & user friendly interfaces & want to make the wolrd look little better through design & code.
+😄 Love to design creative & user friendly interfaces & want to make the world look little better through design & code.
 
 🤔 Looking for help with Data Structure & Algorithm
 <!--
